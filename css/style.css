@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css");
+
 header nav .flexMenu{
     display:flex;
     justify-content:space-evenly;
@@ -44,6 +46,16 @@ header nav .flexMenu{
 }
 .noticia-4{
     background-color:rgb(152, 89, 211);
+}
+
+
+
+.bi-twitch{
+    font-size: 100px;
+}
+
+.bi-battery-full{
+    font-size: 100px;
 }
 
 footer{
